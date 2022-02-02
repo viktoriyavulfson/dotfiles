@@ -1,4 +1,3 @@
-asciinema
 coreutils
 curl
 findutils
@@ -9,4 +8,5 @@ readline
 the_silver_searcher
 tree
 wget
-xmlstarlet
+nvm
+yarn
